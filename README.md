@@ -87,9 +87,9 @@ The DMZ (VLAN 60) houses the critical application servers, resolving internally 
 
 ## 📂 Repository Contents
 
-* `ProjectCSCI368_final.pkt`: The complete, runnable Cisco Packet Tracer topology file. *(Requires Packet Tracer 8.x+)*
-* `[Network Security - Bioshield.pdf](https://github.com/user-attachments/files/27808765/Network.Security.-.Bioshield.pdf)`: The finalized executive presentation detailing the architecture, configurations, and verification results.
-* `[CSCI368 Week 10 Bioshield.docx](https://github.com/user-attachments/files/27808777/CSCI368.Week.10.Bioshield.docx)`: The comprehensive 10-week engineering log, budget justifications, risk assessments, and technical report.
+* **[ProjectCSCI368_final.pkz.zip](ProjectCSCI368_final.pkz.zip)**: The compressed archive containing the complete, runnable Cisco Packet Tracer topology file (`.pkt`). *(Requires Packet Tracer 8.x+)*
+* **[Network Security - Bioshield.pdf](https://github.com/user-attachments/files/27808765/Network.Security.-.Bioshield.pdf)**: The finalized executive presentation detailing the architecture, configurations, and verification results.
+* **[CSCI368 Week 10 Bioshield.docx](https://github.com/user-attachments/files/27808777/CSCI368.Week.10.Bioshield.docx)**: The comprehensive 10-week engineering log, budget justifications, risk assessments, and technical report.
 
 ---
 *Disclaimer: This topology and architecture represent a simulated environment created for academic security research, threat modeling, and portfolio demonstration purposes.*
